@@ -1,4 +1,4 @@
 language: scala
 scala:
    - 2.11.8
-sbt ++$TRAVIS_SCALA_VERSION testOnly -- -l RequireDB
+script: sbt ++$TRAVIS_SCALA_VERSION testOnly -- -l RequireDB
