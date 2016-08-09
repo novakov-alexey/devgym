@@ -1,5 +1,5 @@
 # DevGym
-
+[![Build Status](https://travis-ci.org/novakov-alexey/devgym.svg?branch=master)](https://travis-ci.org/novakov-alexey/devgym)
 ### Cassandra in docker
 
 Start cassandra:
